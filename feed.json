@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My First Publii Website",
+    "description": "",
+    "home_page_url": "https://oliviatruong.github.io/puliisite",
+    "feed_url": "https://oliviatruong.github.io/puliisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Olivia Truong"
+    },
+    "items": [
+    ]
+}
